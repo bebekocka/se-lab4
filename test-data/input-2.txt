@@ -1,0 +1,5 @@
+# Alternating fire between stores
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # should fire the secondary and fail
+TORPEDO,SINGLE  # should fire the primary and succeed

@@ -1,0 +1,4 @@
+# Next-in-line store empty -> should fire from the other
+GT4500,1,0,10,0
+TORPEDO,SINGLE  # fires primary (1 torpedo)
+TORPEDO,SINGLE  # primary empty, should fire secondary
