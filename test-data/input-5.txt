@@ -1,0 +1,4 @@
+# ALL mode: both stores should fire
+GT4500,1,0,1,0
+TORPEDO,ALL  # fires both stores
+TORPEDO,SINGLE #fires one torpedo
