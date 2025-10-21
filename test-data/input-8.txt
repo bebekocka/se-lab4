@@ -1,0 +1,4 @@
+# ALL mode: both stores empty and then SINGLE mode: both stores empty
+GT4500,0,0,0,0
+TORPEDO,ALL  # no torpedoes available
+TORPEDO,SINGLE  # no torpedoes available
