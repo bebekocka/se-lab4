@@ -1,0 +1,4 @@
+# Since primary is empty firing from the secondary and since primary is still empty -> fire from the secondary again
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # should fire secondary
+TORPEDO,SINGLE  # should fire secondary again
