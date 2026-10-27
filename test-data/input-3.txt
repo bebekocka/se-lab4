@@ -1,0 +1,5 @@
+# Use the secondary store when the primary store is empty
+GT4500,1,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
